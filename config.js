@@ -7,7 +7,7 @@
 // thank you to benni ismael
 // thank you to zerochanBot
 // thank you to fernazer
-// thank you to MikeBot Dev Team
+// thank you to Nath Dev Team
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
@@ -59,8 +59,8 @@ global.author = 'Nath' // ganti aja
 //yyy
 bc = 'Nath' //Nath BOT Broadcast
 footer = '\n©Nath'
-namabot = 'KAKA BOT'
-namalu = 'KAKA BOT'
+namabot = 'naryn bot'
+namalu = 'Nath'
 
 
 // 
