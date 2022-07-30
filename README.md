@@ -1,4 +1,4 @@
-# Mike-bot
+# Nath Dev
 Simple Rpg WhatsApp Bot Nath
 
 ## Join Group Diskusi
